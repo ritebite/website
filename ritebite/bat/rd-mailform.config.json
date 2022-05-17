@@ -1,0 +1,8 @@
+{
+  "useSmtp": false,
+  "host": "smtp.office365.com",              
+  "port": 587,													 
+  "username": "info@ritebite.app",					 
+  "password": "info#9999!",						 
+  "recipientEmail":  "info@ritebite.app, rite.bite@outlook.com, ritebiteleads@gmail.com, ponugoti517@gmail.com"		 
+}
